@@ -6,5 +6,5 @@ app.listen(3001, () => {
 });
 
 app.get('/api', (req, res) => {
-    res.send('API is running');
+    res.send({'response': 'API is running'});
 });
