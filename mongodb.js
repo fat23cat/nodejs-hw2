@@ -41,4 +41,4 @@ function isCollectionEmpty() {
       console.log(err);
     return !docs.length;
   });
-}
+};
