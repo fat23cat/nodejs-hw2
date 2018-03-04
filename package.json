@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/fat23cat/nodejs-hw2/issues"
   },
-  "homepage": "https://github.com/fat23cat/nodejs-hw2#readme"
+  "homepage": "https://github.com/fat23cat/nodejs-hw2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.8"
+  }
 }
